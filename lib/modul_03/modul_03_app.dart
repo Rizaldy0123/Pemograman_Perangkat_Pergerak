@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'router/app_router.dart';
-
 class Modul03App extends StatelessWidget {
   const Modul03App({super.key});
 
